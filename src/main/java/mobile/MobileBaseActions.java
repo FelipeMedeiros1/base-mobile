@@ -79,7 +79,6 @@ public abstract class MobileBaseActions {
     /**
      * Contrato entre a tela e a MobileActions a fim de formar uma obrigatoriedade
      * para saber se a tela carregada está realmente correta com a tela apresentada.
-     *
      * @return boolean
      */
     public abstract boolean isView();
