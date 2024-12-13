@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90b2b4d9-7cc4-4c51-ae03-c7a6fa139d05" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/mobile/MobileBaseActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mobile/MobileBaseActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hooks/TestEventHandlerPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Reflections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/TestInfoGeneral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/felipem.medeiros/Documents/cursos/java/base-mobile/src/main/resources",
+    "last_opened_file_path": "C:/Users/felipem.medeiros/Documents/cursos/java/base-mobile/src/main/java/utils",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -45,9 +49,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\felipem.medeiros\Documents\cursos\java\base-mobile\src\main\resources" />
       <recent name="C:\Users\felipem.medeiros\Documents\cursos\java\base-mobile\src\main\java\utils" />
+      <recent name="C:\Users\felipem.medeiros\Documents\cursos\java\base-mobile\src\main\java\hooks" />
       <recent name="C:\Users\felipem.medeiros\Documents\cursos\java\base-mobile\src\main\java" />
+      <recent name="C:\Users\felipem.medeiros\Documents\cursos\java\base-mobile\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\felipem.medeiros\Documents\cursos\java\base-mobile\src\main" />
